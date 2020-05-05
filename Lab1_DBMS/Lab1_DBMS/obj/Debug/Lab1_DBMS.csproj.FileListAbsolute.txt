@@ -1,0 +1,10 @@
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\bin\Debug\Lab1_DBMS.exe.config
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\bin\Debug\Lab1_DBMS.exe
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\bin\Debug\Lab1_DBMS.pdb
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.csprojAssemblyReference.cache
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.Form1.resources
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.Properties.Resources.resources
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.csproj.GenerateResource.cache
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.csproj.CoreCompileInputs.cache
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.exe
+C:\Users\ioana\source\repos\Lab1_DBMS\Lab1_DBMS\obj\Debug\Lab1_DBMS.pdb
