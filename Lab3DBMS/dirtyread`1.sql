@@ -1,0 +1,6 @@
+USE Clinic
+BEGIN TRAN
+UPDATE Doctor SET [First Name] = 'Popescu' WHERE DoctorID = 1
+WAITFOR DELAY '00:00:20'
+ROLLBACK TRAN
+

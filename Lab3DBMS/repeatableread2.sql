@@ -1,0 +1,7 @@
+USE Clinic
+BEGIN TRAN
+UPDATE Doctor SET Salary=2000 WHERE DoctorID=1
+COMMIT TRAN
+
+
+UPDATE Doctor SET Salary=1000 WHERE DoctorID=1
